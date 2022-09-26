@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Search
-permalink: /search/
+title: Buscar
+permalink: /buscar/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search through the blog posts...">
+    <input type="text" id="search-input" placeholder="Buscar posts del blog...">
     <ul id="results-container"></ul>
 </div>
 

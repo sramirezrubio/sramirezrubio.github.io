@@ -1,29 +1,29 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: ¿Quién soy?
+permalink: /quien-soy/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Soy Sergio Ramírez y trabajo en el equipo de Experiencias Digitales de [Kabel](https://www.kabel.es).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Aquí podrás encontrar mis proyectos personales, que no están vinculados de ningún modo a la empresa en la que trabajo.
 
-## Features
+## Últimos proyectos
+### New Gods
+- **Proyecto:** Videojuego.
+- **Fecha:** Primavera 2024.
+- **Género:** Estrategia.
+- **Datos:** New Gods es un videojuego de estrategia por turnos previsto para primavera de 2024.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### La Invitación
+- **Proyecto:** Videojuego.
+- **Fecha:** Abril 2022.
+- **Género:** Plataformas.
+- **Datos:** La Invitación es un minijuego en AR para Android e iOS publicado en 2022.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Podcast
+¿Te gusta el cine y los videojuegos? //Muchos hobbies, poco tiempo// es mi podcast personal, el que charlo junto a invitados de videojuegos, cine y series.
+Disponible en las principales plataformas:
+- [Spotify](https://open.spotify.com/show/4TNohLUJWiv5kkjn8yiOl5?si=2517ada84ca74510&nd=1)
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/muchos-hobbies-poco-tiempo/id1549035672?uo=4)
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80N2Y0NzZhYy9wb2RjYXN0L3Jzcw==)

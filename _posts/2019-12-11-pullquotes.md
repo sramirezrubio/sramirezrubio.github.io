@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  Pullquotes
-categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+title:  Hello World!
+categories: [Blog]
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+Te doy la bienvenida a mi blog, yo soy Sergio, y desarrollo cosas.
 
-Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
+Actualmente estoy embarcado en uno de los proyectos más ambiciosos que me he llegado a plantear, desarrollar New Gods, un videojuego de estrategia por tunos… y es por eso que he hecho este blog, para ir contando mi experiencia y compartir con el mundo los dramas que, sin duda, irán surgiendo.
 
-Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
+De momento, me he puesto como fecha ‘Primavera de 2024’ (totalmente tentativa), con el objetivo de publicar en Steam y Epic Games. En principio, solo para Windows 10, aunque sin duda, me gustaría poder dar soporte a otros sistemas como Linux o MacOS, pero de momento, no está en la hoja de ruta.
 
-A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+¿Y cómo llevas el proyecto, Sergio?
+Por ahora, tengo construidas las bases del combate, el sistema de traducción entre español e inglés (sí, pretendo publicar en esos dos idiomas) y el sistema de guardado… Que no parece gran cosa, pero considero que es una base sólida sobre la que ir trabajando.
+
+Lo que más dudas me genera es el apartado gráfico: modelados, gráficos 2D y UI; y creo que es lo que más me va a ir retrasando, pero espero progresar a buen ritmo entre lo que pueda ir haciendo y los Assets que adquiera.

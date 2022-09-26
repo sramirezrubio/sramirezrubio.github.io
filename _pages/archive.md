@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /archivo-del-blog/
+permalink: /archive/
 title: Archivo del blog
 ---
 

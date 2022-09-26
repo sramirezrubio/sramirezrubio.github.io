@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Quién soy?
-permalink: /quien-soy/
+permalink: /about/
 ---
 
 Soy Sergio Ramírez y trabajo en el equipo de Experiencias Digitales de [Kabel](https://www.kabel.es).
@@ -9,17 +9,19 @@ Soy Sergio Ramírez y trabajo en el equipo de Experiencias Digitales de [Kabel](
 Aquí podrás encontrar mis proyectos personales, que no están vinculados de ningún modo a la empresa en la que trabajo.
 
 ## Últimos proyectos
-### New Gods
-- **Proyecto:** Videojuego.
-- **Fecha:** Primavera 2024.
-- **Género:** Estrategia.
-- **Datos:** New Gods es un videojuego de estrategia por turnos previsto para primavera de 2024.
+**New Gods**
+- Proyecto: Videojuego
+- Fecha: Primavera 2024
+- Género: Estrategia
+- Plataforma: Windows 10 x64
+- Datos: New Gods es un videojuego de estrategia por turnos previsto para primavera de 2024
 
-### La Invitación
-- **Proyecto:** Videojuego.
-- **Fecha:** Abril 2022.
-- **Género:** Plataformas.
-- **Datos:** La Invitación es un minijuego en AR para Android e iOS publicado en 2022.
+**La Invitación**
+- Proyecto: Videojuego
+- Fecha: Abril 2022
+- Género: Plataformas
+- Plataforma: Android & iOS
+- Datos: La Invitación es un minijuego en AR para Android e iOS publicado en 2022
 
 ## Podcast
 ¿Te gusta el cine y los videojuegos? //Muchos hobbies, poco tiempo// es mi podcast personal, el que charlo junto a invitados de videojuegos, cine y series.

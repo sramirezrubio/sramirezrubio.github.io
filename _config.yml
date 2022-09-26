@@ -88,7 +88,7 @@ plugins:
   - jekyll-paginate
 
 include: ['_pages']
-
+default_lang: "es"
 paginate: 6
 paginate_path: /page:num/
 

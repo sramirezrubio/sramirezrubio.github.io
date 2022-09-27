@@ -17,7 +17,7 @@ Tras trastear bastante con el profiler de Unity, he conseguido detectar donde es
 
 ![](/images/cpu-profiler/cpu-profiler-performance-2.png)
 
-Considerando que trabajo en un AMD Ryzen Threadripper 2950X y un M1 Pro de Apple, y sobretodo, que ya me está afectando de esta manera, consideré necesario atajar el problema cuanto antes, ya que iba a repercutir, aún más, en el futuro del proyecto.
+Considerando que trabajo en dos máquinas potentes, como son, un AMD Ryzen Threadripper 2950X y un M1 Pro de Apple, y sobretodo, que ya me está afectando de esta manera, consideré necesario atajar el problema cuanto antes, ya que iba a repercutir, aún más, en el futuro del proyecto.
 
 ## La solución
 El problema radicaba en que, cuando una unidad se movía, las posibles *posiciones de desplazamiento* se actualizaban constantemente, generando llamadas a ciertos loops en el Update(), con el coste que eso genera.

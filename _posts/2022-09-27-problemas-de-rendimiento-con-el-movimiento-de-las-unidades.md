@@ -14,6 +14,7 @@ Cuando selecciono una unidad, los FPS caen a 20-30 y cuando la muevo, dependiend
 Tras trastear bastante con el profiler de Unity, he conseguido detectar donde están los problemas de rendimiento, aunque no hay que ser un gran experto para darse cuenta... los picos de CPU hablan por si solos.
 
 ![](/images/cpu-profiler/cpu-profiler-performance.png)
+
 ![](/images/cpu-profiler/cpu-profiler-performance-2.png)
 
 Considerando que trabajo en un AMD Ryzen Threadripper 2950X y un M1 Pro de Apple, y sobretodo, que ya me está afectando de esta manera, consideré necesario atajar el problema cuanto antes, ya que iba a repercutir, aún más, en el futuro del proyecto.

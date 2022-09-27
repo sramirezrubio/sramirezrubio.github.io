@@ -31,7 +31,7 @@ private void Update()
 }
 
 ```
-...en los Update(), para bloquear código que no fuera necesario y sobretodo, refactorizar algunos loops que buscaban posiciones válidas en el espacio y generaban el PathFinding.
+...en los Update(), para bloquear código que no fuera necesario y sobretodo, refactorizar algunos loops y métodos que buscaban posiciones válidas en el espacio y generaban el PathFinding.
 
 Con estos cambios, hemos recuperado el rendimiento normal del juego y puede volver a tirar a +300fps, aunque lo tengo capado a 60fps. Sorry, PC Master Race, tengo aprecio por mis componentes.
 

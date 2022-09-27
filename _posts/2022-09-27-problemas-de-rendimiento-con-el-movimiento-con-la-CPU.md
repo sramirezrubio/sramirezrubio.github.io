@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Problemas de rendimiento con el movimiento de las unidades
+title:  Problemas de rendimiento con la CPU
 categories: [Blog, New Gods]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Problemas de rendimiento con el movimiento de las unidades
-categories: [Blog] [New Gods]
+categories: [Blog, New Gods]
 ---
 
 Llevo unos días con la desagradable sorpresa de tener problemas **graves** de rendimiento en el proyecto #NewGodsGame.
